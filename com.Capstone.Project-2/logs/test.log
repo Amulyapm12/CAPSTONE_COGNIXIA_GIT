@@ -1,0 +1,7 @@
+2025-05-23 11:17:11 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\amulya.manjunatha\eclipse-workspace\com.Capstone.Project-2\testng_BankDemo.xml
+
+2025-05-23 11:17:11 INFO  BaseTest:18 - Initializing WebDriver
+2025-05-23 11:17:12 INFO  WebDriverManager:1212 - Using chromedriver 136.0.7103.113 (resolved driver for Chrome 136)
+2025-05-23 11:17:12 INFO  WebDriverManager:1265 - Exporting webdriver.chrome.driver as C:\Users\amulya.manjunatha\.cache\selenium\chromedriver\win64\136.0.7103.113\chromedriver.exe
+2025-05-23 11:17:13 INFO  BaseTest:27 - Opening URL: https://parabank.parasoft.com/parabank/index.htm

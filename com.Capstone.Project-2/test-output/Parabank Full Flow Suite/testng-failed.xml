@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Parabank Full Flow Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Login and Transfer Funds Test(failed)">
+    <classes>
+      <class name="parabank.tests.ParabankFlowTest">
+        <methods>
+          <include name="tearDown"/>
+          <include name="setUp"/>
+          <include name="loginAndTransferFunds"/>
+        </methods>
+      </class> <!-- parabank.tests.ParabankFlowTest -->
+    </classes>
+  </test> <!-- Login and Transfer Funds Test(failed) -->
+</suite> <!-- Failed suite [Parabank Full Flow Suite] -->

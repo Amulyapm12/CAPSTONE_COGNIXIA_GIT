@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Parabank Test Suite]">
+  <test thread-count="5" name="Parabank Tests(failed)">
+    <classes>
+      <class name="parabank.tests.AccountsOverviewTest">
+        <methods>
+          <include name="tearDown"/>
+          <include name="setup"/>
+          <include name="testAccountsOverviewPageTitle"/>
+        </methods>
+      </class> <!-- parabank.tests.AccountsOverviewTest -->
+    </classes>
+  </test> <!-- Parabank Tests(failed) -->
+</suite> <!-- Failed suite [Parabank Test Suite] -->
